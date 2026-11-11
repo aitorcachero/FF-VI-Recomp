@@ -1,0 +1,8 @@
+display_name    = Final Fantasy VI
+rom_file        = Final Fantasy VI (ESP).sfc
+expected_crc32  = 62332039
+expected_sha256 = 315c6ceaee53e012814b383f63c15ffe99a2997dd534062f17e0941b31396157
+rom_size        = 4194304
+mapping         = hirom
+region          = USA
+game_id         = snesrecomp-62332039

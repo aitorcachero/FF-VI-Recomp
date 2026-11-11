@@ -1,0 +1,15 @@
+# Progressive symbol map for Final Fantasy VI
+
+[[func]]
+name = "I_RESET"
+addr = "ff00"
+bank = 0
+emit = false
+note = "Emulation RESET vector ($FFFC)"
+
+[[func]]
+name = "I_NMI"
+addr = "800b"
+bank = 0
+emit = false
+note = "Native NMI vector ($FFEA)"
